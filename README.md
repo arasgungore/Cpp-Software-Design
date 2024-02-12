@@ -1,6 +1,6 @@
 # Cpp-Software-Design
 
-This repository contains code examples from the book "C++ Software Design: Design Principles and Patterns for High-Quality Software". The book is authored by ![Klaus Iglberger](https://github.com/igl42) and provides a comprehensive guide to understanding and implementing design principles and patterns in C++ to create high-quality software.
+This repository contains code examples from the book "C++ Software Design: Design Principles and Patterns for High-Quality Software". The book is authored by [Klaus Iglberger](https://github.com/igl42) and provides a comprehensive guide to understanding and implementing design principles and patterns in C++ to create high-quality software.
 
 
 
